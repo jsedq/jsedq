@@ -1,4 +1,4 @@
-# Hola, soy Julio Sedano
+# Soy Julio Sedano
 
 Soy egresado en Física por la Universidad Nacional de Ingeniería (Perú), con interés en Data Science y análisis de datos aplicados a problemas reales de negocio. Tengo experiencia en investigación computacional, estadística y programación en Python.
 
